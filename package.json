@@ -1,0 +1,27 @@
+{
+
+    "name": "grunt-contrib-connect",
+    "title": "grunt-contrib-connect",
+    "description": "grunt-contrib-connect",
+    "version": "1.0.0",
+    "homepage": "https://github.com/liupishui/grunt-contrib-connect",
+    "author": {
+        "name": "jingshuiyuan",
+        "url": "http://www.lpsjj.cn/blog/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liupishui/grunt-contrib-connect.git"
+    },
+    "keywords": [
+        "msgbox",
+        "messagebox"
+    ],
+    "bugs": {
+        "url": "https://github.com/liupis/grunt-contrib-connect/issues"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
